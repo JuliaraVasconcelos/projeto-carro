@@ -1,2 +1,8 @@
 # projeto-carro
-Estudo de HTML, CSS e JavaScript utilizando JQuery em uma animação de carro onde pode-se parar e desligar as luzes.
+Project using:
+- HTML
+- CSS
+- JS
+- JQuery
+
+You can use **enter** to start and stop the car and **W** to turn the lights on or off 
